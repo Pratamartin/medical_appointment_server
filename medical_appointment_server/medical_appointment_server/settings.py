@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'medical_appointment_server',
+    'medical_appointment_app',
 ]
 
 MIDDLEWARE = [
